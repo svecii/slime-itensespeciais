@@ -1,0 +1,7 @@
+author: Arfay
+name: factions-items
+version: 0.1
+main: net.arfay.factions.Ice
+
+commands:
+   item:
